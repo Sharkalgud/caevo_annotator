@@ -1,0 +1,607 @@
+e1	t0	b
+e1	e2	s
+e1	e3	b
+e1	e4	b
+e1	t1	ii
+e1	t2	b
+e1	e5	b
+e1	e6	b
+e1	e7	b
+e1	e8	b
+e1	e9	b
+e1	t3	b
+e2	t0	b
+e2	e3	b
+e2	e4	b
+e2	t1	ii
+e2	t2	b
+e2	e5	b
+e2	e6	b
+e2	e7	b
+e2	e8	b
+e2	e9	b
+e2	t3	b
+e3	t0	b
+e3	e4	a
+e3	t1	a
+e3	t2	ii
+e3	e5	a
+e3	e6	a
+e3	e7	a
+e3	e8	b
+e3	e9	ii
+e3	t3	a
+e4	t0	b
+e4	t1	a
+e4	t2	b
+e4	e5	ii
+e4	e6	i
+e4	e7	i
+e4	e8	b
+e4	e9	ii
+e4	t3	ii
+t1	t0	b
+t1	t2	b
+t1	e5	b
+t1	e6	b
+t1	e7	b
+t1	e8	b
+t1	e9	b
+t1	t3	b
+t2	t0	b
+t2	e5	a
+t2	e6	a
+t2	e7	a
+t2	e8	b
+t2	e9	b
+t2	t3	a
+e5	t0	b
+e5	e6	i
+e5	e7	i
+e5	e8	b
+e5	e9	b
+e5	t3	ii
+e5	e10	b
+e5	e11	b
+e5	e12	b
+e5	e13	b
+e5	e14	b
+e6	t0	b
+e6	e7	b
+e6	e8	b
+e6	e9	ii
+e6	t3	ii
+e6	e10	b
+e6	e11	b
+e6	e12	b
+e6	e13	b
+e6	e14	b
+e7	t0	b
+e7	e8	b
+e7	e9	ii
+e7	t3	ii
+e7	e10	b
+e7	e11	b
+e7	e12	b
+e7	e13	b
+e7	e14	b
+e8	t0	a
+e8	e9	b
+e8	t3	a
+e8	e10	a
+e8	e11	a
+e8	e12	a
+e8	e13	a
+e8	e14	a
+e9	t0	a
+e9	t3	a
+e9	e10	a
+e9	e11	a
+e9	e12	a
+e9	e13	a
+e9	e14	a
+t3	t0	b
+t3	e10	b
+t3	e11	i
+t3	e12	i
+t3	e13	b
+t3	e14	b
+e10	t0	b
+e10	e11	a
+e10	e12	a
+e10	e13	s
+e10	e14	s
+e10	e15	a
+e10	e16	
+e10	e17	a
+e10	t4	a
+e11	t0	b
+e11	e12	b
+e11	e13	b
+e11	e14	b
+e11	e15	a
+e11	e16	
+e11	e17	a
+e11	t4	a
+e12	t0	b
+e12	e13	b
+e12	e14	b
+e12	e15	a
+e12	e16	
+e12	e17	a
+e12	t4	a
+e13	t0	b
+e13	e14	s
+e13	e15	a
+e13	e16	
+e13	e17	a
+e13	t4	a
+e14	t0	b
+e14	e15	a
+e14	e16	
+e14	e17	a
+e14	t4	a
+e15	t0	b
+e15	e16	
+e15	e17	i
+e15	t4	ii
+e15	e18	i
+e15	e19	i
+e15	e20	i
+e15	e21	i
+e16	t0	
+e16	e17	
+e16	t4	
+e16	e18	
+e16	e19	
+e16	e20	
+e16	e21	
+e17	t0	b
+e17	t4	ii
+e17	e18	s
+e17	e19	s
+e17	e20	b
+e17	e21	b
+t4	t0	b
+t4	e18	i
+t4	e19	i
+t4	e20	i
+t4	e21	i
+e18	t0	b
+e18	e19	s
+e18	e20	b
+e18	e21	b
+e18	e22	b
+e18	e23	b
+e18	e24	b
+e19	t0	b
+e19	e20	b
+e19	e21	b
+e19	e22	b
+e19	e23	b
+e19	e24	b
+e20	t0	b
+e20	e21	b
+e20	e22	b
+e20	e23	b
+e20	e24	b
+e21	t0	b
+e21	e22	b
+e21	e23	b
+e21	e24	b
+e22	t0	b
+e22	e23	b
+e22	e24	a
+e22	e25	b
+e23	t0	b
+e23	e24	a
+e23	e25	b
+e24	t0	b
+e24	e25	b
+e25	t0	b
+e25	e26	b
+e26	t0	ii
+e26	e27	a
+e26	e28	a
+e26	t5	a
+e26	t6	a
+e27	t0	b
+e27	e28	a
+e27	t5	ii
+e27	t6	a
+e27	e29	a
+e27	e30	a
+e27	t7	a
+e27	t8	a
+e28	t0	b
+e28	t5	a
+e28	t6	ii
+e28	e29	a
+e28	e30	a
+e28	t7	ii
+e28	t8	a
+t5	t0	b
+t5	t6	a
+t5	e29	a
+t5	e30	a
+t5	t7	a
+t5	t8	a
+t6	t0	b
+t6	e29	a
+t6	e30	a
+t6	t7	s
+t6	t8	a
+e29	t0	b
+e29	e30	a
+e29	t7	b
+e29	t8	a
+e29	e31	b
+e30	t0	b
+e30	t7	b
+e30	t8	ii
+e30	e31	b
+t7	t0	b
+t7	t8	a
+t7	e31	i
+t8	t0	b
+t8	e31	b
+e31	t0	b
+e31	e32	b
+e31	e33	a
+e31	e34	a
+e31	e35	b
+e31	e36	b
+e31	e37	b
+e31	e38	b
+e32	t0	b
+e32	e33	a
+e32	e34	a
+e32	e35	b
+e32	e36	b
+e32	e37	b
+e32	e38	s
+e32	e39	s
+e32	e40	s
+e32	e41	
+e32	e42	a
+e32	e43	b
+e32	e44	s
+e33	t0	b
+e33	e34	b
+e33	e35	b
+e33	e36	b
+e33	e37	b
+e33	e38	b
+e33	e39	b
+e33	e40	b
+e33	e41	
+e33	e42	a
+e33	e43	b
+e33	e44	b
+e34	t0	b
+e34	e35	b
+e34	e36	b
+e34	e37	b
+e34	e38	b
+e34	e39	b
+e34	e40	b
+e34	e41	
+e34	e42	a
+e34	e43	b
+e34	e44	b
+e35	t0	a
+e35	e36	s
+e35	e37	b
+e35	e38	a
+e35	e39	a
+e35	e40	a
+e35	e41	
+e35	e42	a
+e35	e43	
+e35	e44	a
+e36	t0	a
+e36	e37	b
+e36	e38	a
+e36	e39	a
+e36	e40	a
+e36	e41	
+e36	e42	a
+e36	e43	
+e36	e44	a
+e37	t0	a
+e37	e38	a
+e37	e39	a
+e37	e40	a
+e37	e41	
+e37	e42	a
+e37	e43	b
+e37	e44	a
+e38	t0	b
+e38	e39	s
+e38	e40	s
+e38	e41	
+e38	e42	a
+e38	e43	b
+e38	e44	s
+e39	t0	b
+e39	e40	s
+e39	e41	
+e39	e42	a
+e39	e43	b
+e39	e44	s
+e39	e45	s
+e39	e46	a
+e39	e47	s
+e39	e48	s
+e40	t0	b
+e40	e41	b
+e40	e42	a
+e40	e43	b
+e40	e44	s
+e40	e45	s
+e40	e46	a
+e40	e47	s
+e40	e48	s
+e41	t0	
+e41	e42	a
+e41	e43	b
+e41	e44	a
+e41	e45	a
+e41	e46	a
+e41	e47	a
+e41	e48	a
+e42	t0	b
+e42	e43	b
+e42	e44	b
+e42	e45	b
+e42	e46	
+e42	e47	b
+e42	e48	b
+e43	t0	a
+e43	e44	a
+e43	e45	a
+e43	e46	a
+e43	e47	a
+e43	e48	a
+e44	t0	b
+e44	e45	s
+e44	e46	a
+e44	e47	s
+e44	e48	s
+e45	t0	b
+e45	e46	a
+e45	e47	s
+e45	e48	s
+e45	e49	a
+e45	e50	s
+e45	e51	b
+e46	t0	b
+e46	e47	b
+e46	e48	b
+e46	e49	
+e46	e50	b
+e46	e51	b
+e47	t0	b
+e47	e48	s
+e47	e49	
+e47	e50	s
+e47	e51	b
+e48	t0	b
+e48	e49	a
+e48	e50	s
+e48	e51	b
+e49	t0	b
+e49	e50	b
+e49	e51	b
+e49	e52	b
+e49	e53	b
+e49	e54	s
+e49	e55	b
+e50	t0	b
+e50	e51	b
+e50	e52	b
+e50	e53	b
+e50	e54	a
+e50	e55	b
+e51	t0	a
+e51	e52	a
+e51	e53	
+e51	e54	a
+e51	e55	
+e52	t0	ii
+e52	e53	b
+e52	e54	a
+e52	e55	b
+e52	e56	a
+e52	e57	a
+e52	e58	a
+e52	t9	a
+e52	t10	a
+e53	t0	a
+e53	e54	a
+e53	e55	s
+e53	e56	a
+e53	e57	a
+e53	e58	a
+e53	t9	a
+e53	t10	a
+e54	t0	b
+e54	e55	b
+e54	e56	a
+e54	e57	a
+e54	e58	a
+e54	t9	a
+e54	t10	a
+e55	t0	a
+e55	e56	a
+e55	e57	a
+e55	e58	a
+e55	t9	a
+e55	t10	a
+e56	t0	b
+e56	e57	a
+e56	e58	a
+e56	t9	ii
+e56	t10	a
+e56	e59	a
+e56	e60	a
+e56	e61	a
+e56	e62	a
+e56	e63	a
+e57	t0	b
+e57	e58	i
+e57	t9	b
+e57	t10	ii
+e57	e59	
+e57	e60	
+e57	e61	
+e57	e62	a
+e57	e63	a
+e58	t0	b
+e58	t9	b
+e58	t10	ii
+e58	e59	
+e58	e60	
+e58	e61	
+e58	e62	a
+e58	e63	a
+t9	t0	b
+t9	t10	a
+t9	e59	a
+t9	e60	
+t9	e61	
+t9	e62	a
+t9	e63	a
+t10	t0	b
+t10	e59	i
+t10	e60	
+t10	e61	
+t10	e62	i
+t10	e63	i
+e59	t0	b
+e59	e60	
+e59	e61	
+e59	e62	a
+e59	e63	a
+e59	e64	s
+e59	e65	a
+e59	e66	a
+e59	e67	a
+e60	t0	b
+e60	e61	
+e60	e62	
+e60	e63	
+e60	e64	
+e60	e65	
+e60	e66	
+e60	e67	
+e61	t0	b
+e61	e62	
+e61	e63	
+e61	e64	
+e61	e65	
+e61	e66	
+e61	e67	
+e62	t0	b
+e62	e63	a
+e62	e64	b
+e62	e65	a
+e62	e66	a
+e62	e67	s
+e63	t0	b
+e63	e64	b
+e63	e65	a
+e63	e66	s
+e63	e67	b
+e64	t0	b
+e64	e65	a
+e64	e66	a
+e64	e67	a
+e64	e68	a
+e64	e69	a
+e65	t0	b
+e65	e66	b
+e65	e67	b
+e65	e68	b
+e65	e69	b
+e66	t0	b
+e66	e67	b
+e66	e68	b
+e66	e69	b
+e67	t0	b
+e67	e68	b
+e67	e69	s
+e68	t0	b
+e68	e69	a
+e68	e70	b
+e68	e71	b
+e69	t0	b
+e69	e70	b
+e69	e71	b
+e70	t0	b
+e70	e71	b
+e70	e72	
+e70	e73	
+e71	t0	b
+e71	e72	s
+e71	e73	a
+e72	t0	b
+e72	e73	a
+e72	e74	s
+e73	t0	b
+e73	e74	b
+e74	t0	b
+e74	e75	
+e74	e76	
+e74	e77	
+e74	e78	
+e74	e79	
+e74	e80	s
+e74	e81	s
+e74	e82	a
+e74	t11	a
+e75	t0	
+e75	e76	
+e75	e77	
+e75	e78	
+e75	e79	
+e75	e80	
+e75	e81	
+e75	e82	
+e75	t11	
+e76	t0	
+e76	e77	
+e76	e78	
+e76	e79	
+e76	e80	
+e76	e81	
+e76	e82	
+e76	t11	
+e77	t0	
+e77	e78	b
+e77	e79	b
+e77	e80	
+e77	e81	
+e77	e82	
+e77	t11	
+e78	t0	
+e78	e79	b
+e78	e80	
+e78	e81	
+e78	e82	
+e78	t11	
+e79	t0	
+e79	e80	
+e79	e81	
+e79	e82	
+e79	t11	
+e80	t0	b
+e80	e81	s
+e80	e82	a
+e80	t11	a
+e81	t0	b
+e81	e82	a
+e81	t11	a
+e82	t0	b
+e82	t11	ii
+t11	t0	b

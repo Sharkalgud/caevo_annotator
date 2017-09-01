@@ -1,0 +1,12 @@
+classes
+/target
+.settings/org.eclipse.jdt.ui.prefs
+jwnl-properties.xml
+my.sieves
+my.properties
+*~
+sieve-output.xml
+.idea/*
+build.xml
+caevo.iml
+**/illinois-temporal-reasoning.jar
